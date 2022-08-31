@@ -1,5 +1,7 @@
 package org.example.algorithm;
 
+import java.util.Scanner;
+
 public class Fibonacci {
 
     public static int fib(int n) {
@@ -19,11 +21,13 @@ public class Fibonacci {
 
     public static void main(String[] args) {
 
-        System.out.println(fib(0));
-        System.out.println(fib(1));
-        System.out.println(fib(5));
-        System.out.println(fib(10));
-        System.out.println(fib(20));
+        while (true) {
+            Scanner scan = new Scanner(System.in);
+            int n = scan.nextInt();
+
+            System.out.println(fib(n));
+        }
+
     }
 
 }
