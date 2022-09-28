@@ -1,6 +1,6 @@
 package org.example.inheritance.animal;
 
-public abstract class Animal {
+public abstract class Animal implements HighOrderBehaviors {
 
     protected int age;
 
@@ -11,6 +11,33 @@ public abstract class Animal {
     public void setAge(int age) {
         this.age = age;
     }
+
+    @Override
+    public void breathe() {
+
+    }
+
+    @Override
+    public void eat() {
+
+    }
+
+    @Override
+    public void sleep() {
+
+    }
+
+    @Override
+    public void mate() {
+
+    }
+
+    @Override
+    public void call() {
+
+    }
+
+
 
     @Override
     public String toString() {
