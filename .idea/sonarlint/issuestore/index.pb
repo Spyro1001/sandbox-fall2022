@@ -1,6 +1,4 @@
 
-b
-2src/main/java/org/example/algorithm/Fibonacci.java,6\b\6b0c4e28221ec1a70428a72d09e9b2e165e66767
 h
 8src/main/java/org/example/inheritance/animal/Animal.java,e\c\ec3e27f0b12dc3b0859b76bc9ae7ddf2b7cc8325
 k
@@ -25,3 +23,14 @@ _
 /src/main/java/org/example/collections/Demo.java,7\d\7d871fc7211563b238f7fca143a7096c73a6fef7
 o
 ?src/main/java/org/example/exceptions/DivideByZeroException.java,7\9\7980e492f278b4f73f0ac03272e0c88d470ba807
+`
+0src/main/java/org/example/lambda/LambdaDemo.java,b\b\bba6508c9b87f02d620edf979522be5eade23084
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+g
+7src/main/java/org/example/streamapi/StreamExamples.java,a\4\a4fdae8066975f1c289dfc1b651f4a96a45f6558
+h
+8src/main/java/org/example/streamapi/StringGenerator.java,5\0\508d25051739906eeb05220d4cf7662e4075b93b
+b
+2src/main/java/org/example/algorithm/Fibonacci.java,6\b\6b0c4e28221ec1a70428a72d09e9b2e165e66767
